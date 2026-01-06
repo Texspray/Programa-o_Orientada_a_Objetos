@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1630094232 source:g:\programação\poo\prova 2 victor carvalho 2158744\questão02\main.cpp
+	<iostream>
+	"Data.h"
+	"Ingresso.h"
+
+1630093068 source:g:\programação\poo\prova 2 victor carvalho 2158744\questão02\data.cpp
+	<iostream>
+	"Data.h"
+
+1630093068 g:\programação\poo\prova 2 victor carvalho 2158744\questão02\data.h
+
+1630094150 source:g:\programação\poo\prova 2 victor carvalho 2158744\questão02\ingresso.cpp
+	"Ingresso.h"
+	"Data.h"
+	<iostream>
+
+1630094072 g:\programação\poo\prova 2 victor carvalho 2158744\questão02\ingresso.h
+	"Data.h"
+	<string>
+

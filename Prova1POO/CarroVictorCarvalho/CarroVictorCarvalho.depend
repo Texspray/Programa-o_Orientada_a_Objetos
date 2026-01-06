@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1627073112 source:g:\programação\carrovictorcarvalho\main.cpp
+	<iostream>
+	"Carro.h"
+
+1627072583 source:g:\programação\carrovictorcarvalho\carro.cpp
+	"Carro.h"
+	<iostream>
+
+1627072583 g:\programação\carrovictorcarvalho\carro.h
+
+1627072583 source:g:\programação\provapoovictorcarvalho - 2158744\carrovictorcarvalho\carro.cpp
+	"Carro.h"
+	<iostream>
+
+1627072583 g:\programação\provapoovictorcarvalho - 2158744\carrovictorcarvalho\carro.h
+
+1627073143 source:g:\programação\provapoovictorcarvalho - 2158744\carrovictorcarvalho\main.cpp
+	<iostream>
+	"Carro.h"
+
+1627072583 source:g:\programação\poo\provapoovictorcarvalho - 2158744\carrovictorcarvalho\carro.cpp
+	"Carro.h"
+	<iostream>
+
+1627072583 g:\programação\poo\provapoovictorcarvalho - 2158744\carrovictorcarvalho\carro.h
+
+1627073435 source:g:\programação\poo\provapoovictorcarvalho - 2158744\carrovictorcarvalho\main.cpp
+	<iostream>
+	"Carro.h"
+

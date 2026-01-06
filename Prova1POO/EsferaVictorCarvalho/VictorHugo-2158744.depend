@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1627069749 source:g:\programação\victorhugo-2158744\main.cpp
+	<iostream>
+	"Esfera.h"
+
+1627069697 source:g:\programação\victorhugo-2158744\esfera.cpp
+	"Esfera.h"
+	<iostream>
+
+1627069641 g:\programação\victorhugo-2158744\esfera.h
+
+1627069697 source:g:\programação\provapoovictorcarvalho - 2158744\esferavictorcarvalho\esfera.cpp
+	"Esfera.h"
+	<iostream>
+
+1627069641 g:\programação\provapoovictorcarvalho - 2158744\esferavictorcarvalho\esfera.h
+
+1627073342 source:g:\programação\provapoovictorcarvalho - 2158744\esferavictorcarvalho\main.cpp
+	<iostream>
+	"Esfera.h"
+

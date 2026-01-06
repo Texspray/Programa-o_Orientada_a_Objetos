@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1630085104 source:g:\programação\c\lista2 - victor carvalho 2158744\ex8\main.cpp
+	<iostream>
+	"Poligno.h"
+
+1630085167 g:\programação\c\lista2 - victor carvalho 2158744\ex8\poligno.h
+
+1630085167 source:g:\programação\c\lista2 - victor carvalho 2158744\ex8\poligno.cpp
+	<iostream>
+	"Poligno.h"
+
+1630098110 source:g:\programação\poo\prova 2 victor carvalho 2158744\questão04\poligno.cpp
+	<iostream>
+	"Poligno.h"
+
+1630098110 g:\programação\poo\prova 2 victor carvalho 2158744\questão04\poligno.h
+
+1630098181 source:g:\programação\poo\prova 2 victor carvalho 2158744\questão04\main.cpp
+	<iostream>
+	"Poligno.h"
+

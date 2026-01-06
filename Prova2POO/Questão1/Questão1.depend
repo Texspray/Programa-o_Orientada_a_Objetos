@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1630092870 source:g:\programação\poo\prova 2 victor carvalho 2158744\questão1\main.cpp
+	<iostream>
+	"Data.h"
+
+1630092454 g:\programação\poo\prova 2 victor carvalho 2158744\questão1\data.h
+
+1630092812 source:g:\programação\poo\prova 2 victor carvalho 2158744\questão1\data.cpp
+	<iostream>
+	"Data.h"
+
