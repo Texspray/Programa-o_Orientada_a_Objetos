@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1629661304 source:g:\programação\c\lista2 - victor carvalho 2158744\ex5\main.cpp
+	<iostream>
+	"Ponto2D.h"
+
+1629661842 g:\programação\c\lista2 - victor carvalho 2158744\ex5\ponto2d.h
+
+1629661273 source:g:\programação\c\lista2 - victor carvalho 2158744\ex5\ponto2d.cpp
+	"Ponto2D.h"
+	<iostream>
+	<cmath>
+
+1629661304 source:g:\programação\poo\lista2 - victor carvalho 2158744\ex5\main.cpp
+	<iostream>
+	"Ponto2D.h"
+
+1629661842 g:\programação\poo\lista2 - victor carvalho 2158744\ex5\ponto2d.h
+

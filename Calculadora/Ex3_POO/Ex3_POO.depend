@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1624027613 source:g:\programação\ex3_poo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operacoes.h"
+
+1624027808 g:\programação\ex3_poo\operacoes.h
+

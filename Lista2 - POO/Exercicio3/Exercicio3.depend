@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1629583369 source:g:\programação\c\lista2 - victor carvalho 2158744\exercicio3\fatorial.cpp
+	<iostream>
+	"Fatorial.h"
+
+1629582897 g:\programação\c\lista2 - victor carvalho 2158744\exercicio3\fatorial.h
+
+1629583218 source:g:\programação\c\lista2 - victor carvalho 2158744\exercicio3\main.cpp
+	<iostream>
+	"Fatorial.h"
+

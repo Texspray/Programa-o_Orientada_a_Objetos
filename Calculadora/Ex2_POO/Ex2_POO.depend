@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624026768 source:g:\programação\ex2_poo\main.c
+	<stdio.h>
+	<stdlib.h>
+

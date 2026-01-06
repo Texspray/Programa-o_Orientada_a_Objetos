@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1625841158 source:g:\programação\lista1_poo\exercício11\main.cpp
+	<iostream>
+	"Circulo.h"
+
+1625841132 g:\programação\lista1_poo\exercício11\circulo.h
+
+1625841248 source:g:\programação\lista1_poo\exercício11\circulo.cpp
+	"Circulo.h"
+	<iostream>
+
+1625841248 source:g:\programaÃ§Ã£o\poo\lista1_poo\exercÃ­cio11\circulo.cpp
+	"Circulo.h"
+	<iostream>
+
+1625841132 g:\programaÃ§Ã£o\poo\lista1_poo\exercÃ­cio11\circulo.h
+
+1625841350 source:g:\programaÃ§Ã£o\poo\lista1_poo\exercÃ­cio11\main.cpp
+	<iostream>
+	"Circulo.h"
+

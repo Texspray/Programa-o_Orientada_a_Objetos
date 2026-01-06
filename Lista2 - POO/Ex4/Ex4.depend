@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1629660081 source:g:\programação\c\lista2 - victor carvalho 2158744\ex4\arranjo.cpp
+	<iostream>
+	"Arranjo.h"
+
+1629660073 g:\programação\c\lista2 - victor carvalho 2158744\ex4\arranjo.h
+
+1629660100 source:g:\programação\c\lista2 - victor carvalho 2158744\ex4\main.cpp
+	<iostream>
+	"Arranjo.h"
+

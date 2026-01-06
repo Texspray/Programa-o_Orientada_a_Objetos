@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1627064934 source:g:\programação\ponto2d\main.cpp
+	<iostream>
+	"Ponto.h"
+
+1627064783 source:g:\programação\ponto2d\ponto.cpp
+	"Ponto.h"
+	<iostream>
+
+1627064783 g:\programação\ponto2d\ponto.h
+
+1627064934 source:g:\programação\poo\ponto2d\main.cpp
+	<iostream>
+	"Ponto.h"
+
+1627064783 g:\programação\poo\ponto2d\ponto.h
+
+1627064783 source:g:\programação\poo\ponto2d\ponto.cpp
+	"Ponto.h"
+	<iostream>
+
+1627064934 source:g:\programaÃ§Ã£o\poo\ponto2d\main.cpp
+	<iostream>
+	"Ponto.h"
+
+1627064783 g:\programaÃ§Ã£o\poo\ponto2d\ponto.h
+
+1627064783 source:g:\programaÃ§Ã£o\poo\ponto2d\ponto.cpp
+	"Ponto.h"
+	<iostream>
+

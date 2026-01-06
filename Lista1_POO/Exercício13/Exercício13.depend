@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1625852369 source:g:\programação\lista1_poo\exercício13\main.cpp
+	<iostream>
+	<string>
+	"Livro.h"
+
+1625852030 g:\programação\lista1_poo\exercício13\livro.h
+	<string>
+
+1625852145 source:g:\programação\lista1_poo\exercício13\livro.cpp
+	"Livro.h"
+	<string>
+	<iostream>
+

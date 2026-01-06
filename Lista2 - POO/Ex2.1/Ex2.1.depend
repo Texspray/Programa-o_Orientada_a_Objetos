@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1629488724 source:g:\programação\c\lista2 - victor carvalho 2158744\ex2.1\imagina.cpp
+	<iostream>
+	"Imagina.h"
+
+1629488157 g:\programação\c\lista2 - victor carvalho 2158744\ex2.1\imagina.h
+
+1629488773 source:g:\programação\c\lista2 - victor carvalho 2158744\ex2.1\main.cpp
+	<iostream>
+	"Imagina.h"
+
